@@ -8,7 +8,7 @@ const Main = () => {
       <div className="profile-discription">
         <h2>Uzun Afanasi</h2>
         <p>he</p>
-        <p>Date of birthday:</p>
+        <p>Date of birthday:I have to go to the end</p>
         <p>City:</p>
         <p>Education:</p>
         <p>Web-site:</p>
